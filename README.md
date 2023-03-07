@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-**mqzpt/mqzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matthew Athanasopoulos and I currently study Nanotechnology Engineering at the University of Waterloo! This degree has given me a broad range of experinces in mathematics, biology, chemistry, electronics, and quantum physics which I am enjoying applying in personal and professional projects. I have expereince working in business and technology part-time, and as a part of full-time internships through my degree, and spend my free time learning about things I find interesting to me!
 
-Here are some ideas to get you started:
-
-### Hi there 👋
-
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
-Last Edited on: 30/08/2020
 - 🏢 I'm currently working at the **University of Waterloo**
 - 🔭 I’m currently working on **applied Machine Learning**
 - 🌱 I’m currently learning **biochemistry and semiconductor physics**
