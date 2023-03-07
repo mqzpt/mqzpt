@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **applied Machine Learning**
 - 🌱 I’m currently learning **biochemistry and semiconductor physics**
 - 👯 I’m looking to collaborate on **ML/AL/Dev projects that benefit humanity**
-- 🤔 I’m looking for help with **Optimizing machine learning models**
+- 🤔 I’m looking for help with **optimizing machine learning models**
 - 💬 Ask me about **entrepreneurship and finance**
 - 📫 How to reach me: mk2athan@uwaterloo.ca
 - ⚡ Fun fact: I can speak conversational Korean
