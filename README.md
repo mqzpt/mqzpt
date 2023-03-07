@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **mqzpt/mqzpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,5 +17,3 @@ Last Edited on: 30/08/2020
 - 💬 Ask me about **entrepreneurship and finance**
 - 📫 How to reach me: mk2athan@uwaterloo.ca
 - ⚡ Fun fact: I can speak conversational Korean
-
--->
