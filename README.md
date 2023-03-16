@@ -10,3 +10,5 @@
 - 💬 Ask me about **entrepreneurship and finance**
 - 📫 How to reach me: mk2athan@uwaterloo.ca
 - ⚡ Fun fact: I can speak conversational Korean
+
+![](https://komarev.com/ghpvc/?username=mqzpt&color=brightgreen)
