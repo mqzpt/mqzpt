@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  My name is **Matthew Athanasopoulos** and I currently study **Nanotechnology Engineering at the University of Waterloo!** This degree has given me a broad range of experinces in mathematics, biology, chemistry, electronics, and quantum physics which I am enjoying applying in personal and professional projects. I have expereince working in business and technology part-time, and as a part of full-time internships through my degree, and spend my free time learning about things I find interesting to me!
+  My name is **Matthew Athanasopoulos** and I study **Nanotechnology Engineering at the University of Waterloo!** This degree has given me a broad range of experinces in mathematics, biology, chemistry, electronics, and quantum physics which I am enjoying applying in personal and professional projects. I have expereince working in business and technology part-time, and as a part of full-time internships through my degree, and spend my free time learning about things I find interesting to me!
 
 - 🏢 I'm currently working at the **University of Waterloo**
 - 🔭 I’m currently working on **applied Machine Learning**
