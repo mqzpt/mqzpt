@@ -11,4 +11,6 @@
 - 📫 How to reach me: mk2athan@uwaterloo.ca
 - ⚡ Fun fact: I can speak conversational Korean
 
+dm to be algo trading bois
+
 ![](https://komarev.com/ghpvc/?username=mqzpt&color=brightgreen)
