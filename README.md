@@ -6,9 +6,9 @@ My name is **Matthew Athanasopoulos** and I study **Nanotechnology Engineering a
 - 🔭 I’m currently working on **data analysis for optical devices**
 - 🌱 I’m currently learning **combinatorial optimization and quantum mechanics**
 - 👯 I’m looking to collaborate on **pretty much anything interesting in the crypto space!**
-- 🤔 I’m looking for help with **how to properly use a debugger :/**
+- 🤔 I’m looking for help with **cythonizing code for my packages**
 - 💬 Ask me about **physics and financial modeling**
 - 📫 How to reach me: mk2athan@uwaterloo.ca
-- ⚡ Fun fact: I can speak conversational Korean
+- ⚡ Fun fact: I'm learning Korean!
 
 ![](https://komarev.com/ghpvc/?username=mqzpt&color=brightgreen)
