@@ -5,7 +5,7 @@ My name is **Matthew Athanasopoulos** and I study **Nanotechnology Engineering a
 - 🏢 I'm currently studying at the **University of Waterloo**
 - 🔭 I’m currently working on **data analysis and algorithms for optical devices**
 - 🌱 I’m currently learning **combinatorial optimization and quantum mechanics**
-- 👯 I’m looking to collaborate on **pretty much anything interesting in the crypto space!**
+- 👯 I’m looking to collaborate on **anything I find personally interesting or has a viable business case**
 - 🤔 I’m looking for help with **cythonizing code for my packages**
 - 💬 Ask me about **physics and financial modeling**
 - 📫 How to reach me: mk2athan@uwaterloo.ca
