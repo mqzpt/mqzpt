@@ -11,6 +11,6 @@ My name is **Matthew Athanasopoulos** and I study **Nanotechnology Engineering a
 - 📫 How to reach me: mk2athan@uwaterloo.ca
 - ⚡ Fun fact: I'm learning Korean!
 
-I often do stuff with programming (which is why this github exists), usually to speed up or automate science or engineering tasks. My programming skills mostly comprise of the PyData stack (Pandas, NumPy, SciPy, Scikit-Learn, OpenCV, TensorFlow) and Seaborn, Matplotlib, or Plotly for data visualization. I also have taken a few courses in numerical methods leveraging MATLAB for ODE's/PDE's, but prefer pythonic implementations when possible for easier integration into packages or software.
+I often do stuff with programming, often to speed up or automate science or engineering tasks. My programming skills mostly comprise of the PyData stack (Pandas, NumPy, SciPy, Scikit-Learn, OpenCV, TensorFlow) and Seaborn, Matplotlib, or Plotly for data visualization. I also have taken a few courses in numerical methods leveraging MATLAB for ODE's/PDE's, but prefer pythonic implementations when possible for easier integration into packages or software.
 
 ![](https://komarev.com/ghpvc/?username=mqzpt&color=brightgreen)
